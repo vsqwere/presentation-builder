@@ -1,0 +1,17 @@
+{"theme":"swiss","footer":"Pecode × Acme · пропозиція","slides":[
+{"layout":"title","meta":"Листопад 2026","title":"MVP за *12 тижнів*, а не за рік","subtitle":"Пропозиція для Acme: дизайн, розробка і QA однією командою","image":"img/team-five.jpg"},
+{"layout":"statement","title":"Більшість стартапів гинуть не через ідею, а через *повільний перший реліз*.","subtitle":"Тому ми починаємо з найменшої версії, яку можна продати"},
+{"layout":"section","number":"01","title":"Як ми працюємо"},
+{"layout":"bullets","title":"Що ви отримуєте з першого тижня","items":["Прототип :: клікабельний макет до першого рядка коду","Щотижневі демо :: бачите прогрес, а не звіти","QA на кожен реліз :: баги ловимо до користувачів","Одна команда :: дизайн, код і тестування без передач"]},
+{"layout":"bullets","title":"Команда, яку ви бачите щотижня","items":["Product manager :: один контакт на весь проєкт","Дизайнер :: від воркшопу до UI-кіту","Розробники :: web і mobile"],"image":"img/kanban-board.jpg"},
+{"layout":"process","title":"12 тижнів від ідеї до релізу","steps":[{"title":"Скоуп","text":"Цілі, користувачі, бюджет"},{"title":"Дизайн","text":"Прототип і тест з користувачами"},{"title":"Розробка","text":"Короткі цикли з демо"},{"title":"Запуск","text":"QA, DevOps, підтримка"}]},
+{"layout":"stats","title":"Що кажуть клієнти","stats":[{"value":"5.0","label":"середня оцінка з 30+ відгуків"},{"value":"250+","label":"проєктів за 6 років"},{"value":"100%","label":"job success на Upwork"}],"source":"pecodesoftware.com"},
+{"layout":"chart","title":"Кейс IDM: що змінилось після релізу","kind":"bar","categories":["Залученість","Швидкість","Аудиторія"],"series":{"%":[35,50,25]},"highlight":1,"takeaway":"Завантаження вдвічі швидше, і користувачі це помітили.","source":"відгук CTO Inner Dimension Media"},
+{"layout":"cards","title":"Пакети","cards":[{"tag":"Старт","title":"Дизайн-спринт","text":"2 тижні, прототип і план"},{"tag":"Основний","title":"MVP","text":"12 тижнів до релізу"},{"tag":"Далі","title":"Команда на рік","text":"Розвиток продукту"}]},
+{"layout":"two_col","title":"Чим ми відрізняємось","columns":[{"heading":"Звичайна агенція","items":["Дизайн і код у різних підрядників","Звіт раз на місяць"]},{"heading":"Pecode","items":["Одна команда від воркшопу до релізу","Демо щотижня"]}]},
+{"layout":"table","title":"Порівняння пакетів","header":["","Спринт","MVP","Рік"],"rows":[["Строк","2 тижні","12 тижнів","12 місяців"],["Команда","2 людини","5 людей","від 5"],["Ціна","[ціна]","[ціна]","[ціна]"]],"highlight":2},
+{"layout":"quote","quote":"Команда тримала дедлайни і швидко реагувала на зміни.","author":"Engagement Manager, Cortance OÜ","image":"img/founders-talk.jpg"},
+{"layout":"gallery","title":"Як виглядає робочий тиждень","images":["img/sticky-notes.jpg","img/code-monitors.jpg","img/office-focus.jpg"]},
+{"layout":"image","image":"img/meeting-hands.jpg","title":"Почнімо з *30-хвилинного* дзвінка","caption":"Фото: Unsplash"},
+{"layout":"closing","title":"Дякуємо. *Що далі?*","items":["Дзвінок на 30 хвилин","Оцінка за 3 дні"],"contact":"hello@company.com\n+380 00 000 00 00"}
+]}
